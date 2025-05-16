@@ -1,0 +1,3 @@
+- Filtro cinzento;
+- Resolução das imagens;
+- Diferentes camadas no modelo;

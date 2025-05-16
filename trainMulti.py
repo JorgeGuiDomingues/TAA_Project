@@ -226,7 +226,7 @@ def train_and_storage(model, data_train, data_cat, data_val, data_test, summar_n
     print(f"Resultados salvos em {summar_name}")
     model.save(f'result/{summar_name}/model_{summar_name}.keras')
 
-def lpt(size, val_float, num_model, pasta):
+def lpt(size, val_float, num_model, pasta): # load pre training
     dataset="animais"+str(pasta)
     img_width = size
     img_height = size
