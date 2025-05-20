@@ -3,3 +3,4 @@
 /venv/
 /train_folder/
 /test_folder/
+*.keras
