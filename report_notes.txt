@@ -6,3 +6,5 @@
 - Matriz de confusão para os modelos;
 - Data augmentation para ter mais imagens e explicar a necessidade;
 - Ataque de Ruído;
+- F1-score e outras métricas;
+- Fizemos uma implementação inicial e percebemos que os dados estavam maus;
