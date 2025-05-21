@@ -3,3 +3,6 @@
 - Diferentes camadas no modelo;
 - Diferentes algoritmos (slides);
 - Discutir o que acontece quando adicionamos mais classes ao modelo (performance e probilidade de acertar deve diminuir?);
+- Matriz de confusão para os modelos;
+- Data augmentation para ter mais imagens e explicar a necessidade;
+- Ataque de Ruído;
