@@ -1,4 +1,5 @@
-- Filtro cinzento;
+- Filtro cinzento (cor é importante devido à identificação das espécies);
 - Resolução das imagens;
 - Diferentes camadas no modelo;
 - Diferentes algoritmos (slides);
+- Discutir o que acontece quando adicionamos mais classes ao modelo (performance e probilidade de acertar deve diminuir?);
