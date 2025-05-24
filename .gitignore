@@ -1,6 +1,7 @@
 /train/
 /test/
 /venv/
+/.venv/
 /train_folder/
 /test_folder/
 *.keras
