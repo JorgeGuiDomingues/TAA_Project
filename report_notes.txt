@@ -10,3 +10,5 @@
 - Fizemos uma implementação inicial e percebemos que os dados estavam maus;
 - Falar da normalização das imagens;
 - eu acho que o transfer learning faz muita diferença porque temos poucois dados;
+- borboleta tinha muito mais imagens que as outras classes;
+- número muito grande de classes torna o modelo menos preciso;
