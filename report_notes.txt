@@ -1,14 +1,34 @@
 - Filtro cinzento (cor é importante devido à identificação das espécies) (cor é importante devido à identificação das espécies);
-- Resolução das imagens;
 - Diferentes camadas no modelo;
-- Diferentes algoritmos (slides);
 - Discutir o que acontece quando adicionamos mais classes ao modelo (performance e probilidade de acertar deve diminuir?);
-- Matriz de confusão para os modelos;
 - Data augmentation para ter mais imagens e explicar a necessidade (só na pasta do treino);
 - F1-score e outras métricas;
 - Fizemos uma implementação inicial e percebemos que os dados estavam maus;
 - Falar da normalização das imagens;
-- eu acho que o transfer learning faz muita diferença porque temos poucois dados;
+- eu acho que o transfer learning faz muita diferença porque temos poucos dados;
 - borboleta tinha muito mais imagens que as outras classes;
 - número muito grande de classes torna o modelo menos preciso;
 - a normalização para alguns modelos pode estragar os resultados devido à resolução e definição da imagem;
+- repartição da pasta do treino para a validação;
+
+Modelos para treinar:
+- CNN simples:
+    - 4 classes;
+    - 4 classes mas uma com muito mais imagens que as outras;
+    - 9 classes;
+    - 9 classes com data augmentation e normalização;
+    - 80 classes;
+
+- CNN complex (já com o data augmentation):
+    - 4 classes;
+    - 9 classes;
+
+Tudo com 9 classes:
+- LeNet-5;
+- AlexNet;
+
+- CNN com o transfer learning (MobileNetV2):
+    - sem fine-tuning;
+    - com fine-tuning;
+
+- VGG-16;
