@@ -1,3 +1,4 @@
+- problemas do dataset e a adição de um novo;
 - Filtro cinzento (cor é importante devido à identificação das espécies) (cor é importante devido à identificação das espécies);
 - Diferentes camadas no modelo;
 - Discutir o que acontece quando adicionamos mais classes ao modelo (performance e probilidade de acertar deve diminuir?);
