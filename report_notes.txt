@@ -15,6 +15,7 @@
 - repartição da pasta do treino para a validação;
 - explicar o porquê do limite do treino ser a val_accuracy e não a accuracy;
 - seed estraga os resultados todos;
+- falar do dropout e dos regularizers;
 
 Modelos para treinar:
 - CNN simples:
