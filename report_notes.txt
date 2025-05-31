@@ -14,6 +14,7 @@
 - a normalização para alguns modelos pode estragar os resultados devido à resolução e definição da imagem;
 - repartição da pasta do treino para a validação;
 - explicar o porquê do limite do treino ser a val_accuracy e não a accuracy;
+- seed estraga os resultados todos;
 
 Modelos para treinar:
 - CNN simples:
